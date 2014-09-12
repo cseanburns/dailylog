@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.cseanburns.net/dailylog
+title: Faculty Journal
+subtitle: C. Sean Burns, PhD, Library and Information Science
+author: C. Sean Burns
 simple_search: https://www.google.com/search
-description:
+description: A faculty journal or diary
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,20 +16,20 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /dailylog/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: sean.burns@uky.edu
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /dailylog
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/dailylog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: seancsb
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: burnscsb
 twitter_tweet_button: true
 
 # Google +1
@@ -79,7 +79,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 109107567878858445324
 googleplus_hidden: false
 
 # Pinboard
