@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tuesday Sept 16 2014"
+date: 2014-09-16 19:40:12 -0400
+comments: true
+categories: [daily log]
+---
+
+Mainly worked on lectures today. Plus lots of emails, partially in
+preparation for and related to some upcoming conferences.
