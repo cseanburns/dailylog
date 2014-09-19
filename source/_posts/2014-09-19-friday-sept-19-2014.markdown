@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Friday Sept 19 2014"
+date: 2014-09-19 16:47:09 -0400
+comments: false
+categories: [daily log]
+---
+
+Yesterday I attended the KLA annual conference in Louisville, KY. Attended the
+following sessions, all excellent:
+
+From "The NASA Goddard Library" to GIC^2  
+Robin Dixon, Branch Head  
+NASA Goddard Space Flight Library
+
+Blazed Pathways and Skillful Glancing: Using the Lens of Library History to
+Focus on the New Information Literacy Framework  
+Daniel Ransom  
+Holy Names University  
+ALA Emerging Leader
+
+Technology Telling Stories: Library Instruction Perspectives from an Information
+Literacy Librarian and an Archivist  
+Beth Fuchs  
+University of Kentucky, Young Library  
+Jaime Marie Burton  
+University of Kentucky, Special Collections
+
+More details about the program: [KLA 2014 Conference Program][1].
+
+[1]: http://www.klaonline.org/docs/KLA%202014%20Conference%20Program%20No%20Rooms.pdf
+
+---
+
+Today:
+
+I spent the morning and part of the afternoon grading. Also made plans for
+conference travel in November.
+
+Attended a discussion about tenure. 
+
+In the afternoon, spent a couple hours on data management and double checking
+results from an analysis.
