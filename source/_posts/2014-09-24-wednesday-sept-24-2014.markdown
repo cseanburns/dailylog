@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wednesday Sept 24 2014"
+date: 2014-09-24 16:52:55 -0400
+comments: false
+categories: [daily log]
+---
+
+Spent most of the day working on teaching materials and activities and in a very
+long meeting.
