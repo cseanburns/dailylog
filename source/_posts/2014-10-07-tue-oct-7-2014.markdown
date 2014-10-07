@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tue Oct 7 2014"
+date: 2014-10-07 13:58:32 -0400
+comments: false
+categories: [daily log]
+---
+
+Primarily lecture work, course preparation, and student discussions. Wrote a
+couple good paragraphs today for a paper.
