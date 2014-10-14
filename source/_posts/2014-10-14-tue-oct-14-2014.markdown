@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tue Oct 14 2014"
+date: 2014-10-14 16:55:23 -0400
+comments: false
+categories: [daily log]
+---
+
+Spent all of yesterday and most of today grading. Spent part of today working
+with some students.
