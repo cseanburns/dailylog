@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wed Oct 15 2014"
+date: 2014-10-15 17:59:21 -0400
+comments: false
+categories: [daily log]
+---
+
+Worked on lectures and assignments today. Had one meeting with research
+collaborator. Lots done. Research work tomorrow.
