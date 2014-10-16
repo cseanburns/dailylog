@@ -6,5 +6,6 @@ comments: false
 categories: [daily log]
 ---
 
-A little research work today, and some reading and studying, but mostly service
-and teaching.
+A little research work today, with a decent amount of writing very early this
+morning and some data visualization work this afternoon. Also, some reading and
+studying. But mostly service and teaching.
