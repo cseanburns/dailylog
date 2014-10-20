@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Mon Oct 20 2014"
+date: 2014-10-20 16:55:29 -0400
+comments: false
+categories: [daily log]
+---
+
+Primarily worked on courses this morning and reviewed conference papers in the
+afternoon. Also attended the opening presentation for OA Week (webcast but
+locally presented with the help of UK Libraries), responded to emails (lots of
+advisee work today -- and more later this week), read and commented on drafts
+for a grant proposal, and a few other small tasks.
