@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Fri Oct 24 2014"
+date: 2014-10-24 16:35:20 -0400
+comments: false
+categories: [daily log]
+---
+
+Several meetings today. Some grading and other course related activities. Some
+writing and coding. General mix of a day.
