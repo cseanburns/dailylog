@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Tue Oct 28 2014"
+date: 2014-10-28 16:48:28 -0400
+comments: false
+categories: [daily log]
+---
+
+Worked on lectures today and coding.
