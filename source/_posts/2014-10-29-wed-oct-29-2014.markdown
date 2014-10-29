@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wed Oct 29 2014"
+date: 2014-10-29 16:57:27 -0400
+comments: false
+categories: [daily log]
+---
+
+Spent the day grading, working on new lecture and discussions for courses, and
+generating figures for a manuscript to be submitted soon.
