@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Thu Oct 30 2014"
+date: 2014-10-30 16:57:40 -0400
+comments: false
+categories: [daily log]
+---
+
+Grading and editing and writing today.
