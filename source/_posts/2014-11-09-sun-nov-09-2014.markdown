@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Sun Nov 09 2014"
+date: 2014-11-09 09:14:12 -0500
+comments: false
+categories: [daily log]
+---
+
+Spent the last few days attending the joint History of Science Society and
+Philosophy of Science Society annual conference in Chicago. It was a smart
+conference and there is quite a bit of overlap between scholarly communication,
+as practiced in the library and information science field, and the history and
+philosophy of science. Attended talks on:
+
+* history of the history of science
+* Einstein
+* bounded rationality
+* peer review
+* student examinations
+* open access
+* thought experiments
+* and more.
+
+I've attended humanities conferences before so the experience wasn't quite
+foreign, but since I study scholarly communication, I found the experience
+worthwhile for that alone.
+
+The open access discussion confirmed my opinion that OA advocates need to
+evangelize less and reach out to all stakeholders in the scholarly communication
+system. That is, it's a complicated topic, with concerned, rational, and
+well-intentioned people on all sides (authors, higher education administrators,
+society members, society publishers, other scholarly publishers, editors, as
+well as librarians, etc.), and needs to be treated so and not reduced to
+platitudes.
