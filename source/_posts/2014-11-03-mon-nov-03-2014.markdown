@@ -6,5 +6,5 @@ comments: false
 categories: [daily log]
 ---
 
-Reviewed literature and took notes. Graded homework. Recorded lecture. Attending
-Meetings.
+Reviewed literature and took notes. Graded homework. Recorded lecture. Attended
+meetings.
