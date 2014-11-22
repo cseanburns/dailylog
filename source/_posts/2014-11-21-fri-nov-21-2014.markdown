@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fri Nov 21 2014"
+date: 2014-11-21 22:15:37 -0500
+comments: false
+categories: [daily log]
+---
+
+Lots of meeting today, and then grading.
