@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Mon Nov 24 2014"
+date: 2014-11-24 22:22:19 -0500
+comments: false
+categories: [daily log]
+---
+
+Instruction work, peer review work, lots of emails and student
+interaction, and some writing.
