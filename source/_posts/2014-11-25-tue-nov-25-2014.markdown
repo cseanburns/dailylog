@@ -6,5 +6,5 @@ comments: false
 categories: [daily log]
 ---
 
-More service work today for the ICT program. Some instruction work. Lots of
+Some service work for the ICT program. Some instruction work. Lots of
 progress with a paper I've been writing.
