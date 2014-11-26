@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tue Nov 25 2014"
+date: 2014-11-25 23:33:56 -0500
+comments: false
+categories: [daily log]
+---
+
+More service work today for the ICT program. Some instruction work. Lots of
+progress with a paper I've been writing.
