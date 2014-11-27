@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Wed Nov 26 2014"
+date: 2014-11-26 21:17:21 -0500
+comments: false
+categories: [daily log]
+---
+
+Service work and some writing.
