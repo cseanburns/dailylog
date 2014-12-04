@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Thu Dec 4 2014"
+date: 2014-12-04 18:24:51 -0500
+comments: false
+categories: [daily log]
+---
+
+Grading.
