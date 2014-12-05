@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fri Dec 5 2014"
+date: 2014-12-05 16:01:56 -0500
+comments: false
+categories: [daily log]
+---
+
+Meetings. Some preparation for a future research project.
