@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Wed Dec 10 2014"
+date: 2014-12-10 16:29:59 -0500
+comments: false
+categories: [daily log]
+---
+
+Primarily instruction work today -- grading and wrapping up the semester.
