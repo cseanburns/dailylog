@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fri Dec 12 2014"
+date: 2014-12-12 23:36:03 -0500
+comments: false
+categories: [daily log]
+---
+
+Grading, mostly.
