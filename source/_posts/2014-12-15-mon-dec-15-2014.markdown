@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Mon Dec 15 2014"
+date: 2014-12-15 14:22:25 -0500
+comments: false
+categories: [daily log]
+---
+
+Grading, mostly. One meeting.
+
+Classes are over and no more grading until Friday, which means three days of
+writing.
