@@ -6,5 +6,5 @@ comments: false
 categories: [daily log]
 ---
 
-Instead of writing, I've spend that last two days coding and cleaning data
-for a research project.
+Instead of writing, I've spent that last two days coding and cleaning data
+for a research project. It's been quite therapeutic.
