@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wed Dec 17 2014"
+date: 2014-12-17 16:58:16 -0500
+comments: false
+categories: [daily log]
+---
+
+Instead of writing, I've spend that last two days coding and cleaning data
+for a research project.
