@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Thu Dec 18 2014"
+date: 2014-12-18 16:22:37 -0500
+comments: false
+categories: [daily post]
+---
+
+Continued to clean data for collaborative project and worked on developing
+some models for the data.
