@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fri Dec 19 2014"
+date: 2014-12-19 18:50:19 -0500
+comments: false
+categories: [daily log]
+---
+
+Grading and data analysis for a research project.
