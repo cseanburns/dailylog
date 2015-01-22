@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Thu Jan 22 2015"
+date: 2015-01-22 17:02:48 -0500
+comments: false
+categories: [daily log]
+---
+
+Began the day with some writing and instruction. More instruction headaches
+due to a bug in the LMS. Dealt with that a bunch today and still not solved.
+Some meetings, and then worked on a poster and some writing for much of the
+afternoon.
