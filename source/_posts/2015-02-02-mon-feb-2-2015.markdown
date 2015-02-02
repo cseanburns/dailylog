@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Mon Feb 2 2015"
+date: 2015-02-02 15:10:40 -0500
+comments: false
+categories: [daily log]
+---
+
+Last week I attended a conference, and it was good.
+
+Today was spent catching up with emails and doing more in-depth instruction.
+I'm using Canvas now, which has this nice ability to not just subscribe to
+discussion forums and receive individual posts via email, but also to reply
+to individual posts via email. I like this because I email with [mutt][1]
+and [vim][2] and I'm pretty fast (all keyboard driven) can contribute and
+respond quickly and thoroughly.
+
+[1]: http://www.mutt.org/
+[2]: http://www.vim.org/
