@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Thu Feb 5 2015"
+date: 2015-02-05 17:58:52 -0500
+comments: false
+categories: [daily log]
+---
+
+Worked on instruction in the morning -- and attended a presentation later in
+the morning. Did some editing in the afternoon and also some R coding.
+Meeting with students.
