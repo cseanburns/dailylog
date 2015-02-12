@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Wed Feb 11 2015"
+date: 2015-02-11 17:23:26 -0500
+comments: false
+categories: [daily log]
+---
+
+All instructional work today.
