@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fri Feb 13 2015"
+date: 2015-02-13 18:28:29 -0500
+comments: false
+categories: [daily log]
+---
+
+Mostly instructional work today.
