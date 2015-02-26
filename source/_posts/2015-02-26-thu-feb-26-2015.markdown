@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Thu Feb 26 2015"
+date: 2015-02-26 17:20:55 -0500
+comments: false
+categories: [daily log]
+---
+
+Mostly instructional work today, including meetings with students.
