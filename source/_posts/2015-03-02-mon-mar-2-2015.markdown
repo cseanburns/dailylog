@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Mon Mar 2 2015"
+date: 2015-03-02 22:45:19 -0500
+comments: false
+categories: [daily log]
+---
+
+Research meeting much of the day, and then instructional work.

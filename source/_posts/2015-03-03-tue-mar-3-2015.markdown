@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Tue Mar 3 2015"
+date: 2015-03-03 23:49:36 -0500
+comments: false
+categories: [daily log]
+---
+
+Today: Reading, instruction, data cleaning, meeting.
