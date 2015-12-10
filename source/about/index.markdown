@@ -7,10 +7,11 @@ sharing: true
 footer: true
 ---
 
-I use this site to write a brief log of my daily activities at work. It probably
-will not be informative, but it serves as a nice way for me to think about
-the day, at the end of the day.
+I use this site to write a brief log of my daily activities at work. It
+probably will not be informative, but it serves as a nice way for me to
+either reflect on the day or just sum it up.
 
-My research site is [http://cseanburns.net/journal/][1].
+The entry level to various parts of my sites is at
+[http://cseanburns.net/][1].
 
 [1]: http://cseanburns.net/journal 
